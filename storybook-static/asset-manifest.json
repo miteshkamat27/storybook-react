@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.645ce6547d153e96d519.bundle.js",
+    "main.css.map": "/main.css.map",
+    "main.js.map": "/main.645ce6547d153e96d519.bundle.js.map",
+    "runtime~main.js": "/runtime~main.645ce6547d153e96d519.bundle.js",
+    "runtime~main.js.map": "/runtime~main.645ce6547d153e96d519.bundle.js.map",
+    "vendors~main.js": "/vendors~main.645ce6547d153e96d519.bundle.js",
+    "vendors~main.js.map": "/vendors~main.645ce6547d153e96d519.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.fd2b368d34cf551a4013658e6df515f3.js": "/precache-manifest.fd2b368d34cf551a4013658e6df515f3.js",
+    "service-worker.js": "/service-worker.js"
+  }
+}
