@@ -9,6 +9,10 @@ storiesOf('Button',module)
         label="Primary Button"
         onClick={action('click')}
      />)
+    .add('with secondary',() => <Button 
+        label="Secondary Button"
+        onClick={action('click')}
+    />)
     .add('with outline', () => <Button 
         label="Outline Button"
         onClick={action('click')}
