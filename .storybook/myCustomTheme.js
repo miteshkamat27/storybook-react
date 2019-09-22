@@ -13,8 +13,8 @@ export default create({
     fontBase: '"Open Sans", sans-serif',
     fontCode: 'monospace',
     // Text colors
-    textColor: 'rgb(255, 250, 250)',
-    textInverseColor: 'white',
+    //textColor: 'rgb(255, 250, 250)',
+    //textInverseColor: 'white',
     // Toolbar default and active colors
     barTextColor: 'white',
     barSelectedColor: 'white',
